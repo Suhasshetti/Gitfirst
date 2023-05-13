@@ -16,3 +16,4 @@ fi
 if [ $age -ge 100 ]
 then
 	echo "Your are budda hai you can go
+echo ""
